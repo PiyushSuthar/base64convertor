@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Static Template</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Base 64 Encode/Decode</h1>
+    </header>
+    <form>
+      <fieldset id="text">
+        <legend>Text</legend>
+        <textarea></textarea>
+        <button type="button">Encode</button>
+      </fieldset>
+
+      <fieldset id="b64">
+        <legend>Base64</legend>
+        <textarea></textarea>
+        <button type="button">Decode</button>
+      </fieldset>
+    </form>
+
+    <script>
+      function find(selector) {
+        return document.querySelector(selector);
+      }
+
+      window.onerror = function(e) {
+        alert(e);
+      };
+
+      var field = {
+        text: find("#text textarea"),
+        b64: find("#b64 textarea")
+      };
+
+      find("#text button").onclick = function() {
+        field.b64.value = btoa(field.text.value);
+      };
+
+      find("#b64 button").onclick = function() {
+        field.text.value = atob(field.b64.value);
+      };
+      window.onload = function() {
+        navigator.vibrate([500]);
+      };
+    </script>
+  </body>
+</html>
