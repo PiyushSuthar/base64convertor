@@ -1,0 +1,114 @@
+{
+  "dir": "ltr",
+  "lang": "English",
+  "name": "Base 64 Convertor",
+  "scope": "/base64convertor/",
+  "display": "standalone",
+  "start_url": "https://piyushsuthar.codes/base64convertor/",
+  "short_name": "Base 64 Convertor",
+  "theme_color": "transparent",
+  "description": "A Simple but Powerful base 64 encoder and decoder...",
+  "orientation": "natural",
+  "background_color": "#2e3dfa",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/0dad3c3f-9f68-dd1f-0d55-b301e29e9d6e.webPlatform.png",
+      "sizes": "44x44",
+      "type": "image/png"
+    },
+    {
+      "src": "images/8356355e-7f70-61a7-4a8f-1e40af08a795.webPlatform.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "images/16f1068c-e896-f765-201e-e52e7900c126.webPlatform.png",
+      "sizes": "1240x600",
+      "type": "image/png"
+    },
+    {
+      "src": "images/ace135ee-882d-cd6b-bb68-27ea06207ec5.webPlatform.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "images/d279c3c3-1c5b-e980-19a8-1a3b2145add4.webPlatform.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "images/e99dc432-55c8-bfc4-89e4-191df6bc0ebe.webPlatform.png",
+      "sizes": "88x88",
+      "type": "image/png"
+    },
+    {
+      "src": "images/9f11f134-81d6-e9c6-9b9b-a5bfb0a51f87.webPlatform.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "images/4112cdfc-90e3-f428-5d62-8bbd93381452.webPlatform.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    },
+    {
+      "src": "images/5b907ed2-cea2-8c75-ebdd-146f6e8a7f00.webPlatform.png",
+      "sizes": "620x300",
+      "type": "image/png"
+    },
+    {
+      "src": "images/5c08faa5-f589-a716-1e9b-0bafc0bd942c.webPlatform.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/f78f35ac-452d-eacf-0b88-751e4c11c23e.webPlatform.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "images/4e06afc2-f0b3-f1f4-c784-645474d9c491.webPlatform.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "images/8c8ea97d-da35-f186-5253-deb44e34f8c3.webPlatform.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "images/f3dd382f-ee77-50fd-71f8-ebf4c63d6ef0.webPlatform.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "images/d8520190-8b9c-0954-71c6-50602ef57fa9.webPlatform.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "images/5ec58997-ad0b-b2fd-85c4-942ee826f213.webPlatform.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "images/47bf2f70-a050-d926-0227-044a61cebda2.webPlatform.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "images/51b12d7b-9fa9-5cb8-2182-afb612b7f8fa.webPlatform.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "images/7d7d88a4-ea2f-b322-d110-55761386f22b.webPlatform.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://piyushsuthar.codes/base64convertor/",
+  "screenshots": []
+}
